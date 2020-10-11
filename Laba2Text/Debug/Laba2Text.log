@@ -1,0 +1,12 @@
+﻿  main.c
+D:\Laba2Text\Laba2Text\main.c(14,13): warning C4047: функция: "char *" отличается по уровням косвенного обращения от "char (*)[256]"
+D:\Laba2Text\Laba2Text\main.c(14,9): warning C4024: fgets: различные типы для формального и фактического параметров 1
+D:\Laba2Text\Laba2Text\main.c(23,31): warning C4047: функция: "char *" отличается по уровням косвенного обращения от "char (*)[256]"
+D:\Laba2Text\Laba2Text\main.c(23,27): warning C4024: fgets: различные типы для формального и фактического параметров 1
+D:\Laba2Text\Laba2Text\main.c(53,22): warning C4013: _getch: нет определения; предполагается "extern" с возвратом типа "int"
+D:\Laba2Text\Laba2Text\main.c(106,7): warning C4013: gets: нет определения; предполагается "extern" с возвратом типа "int"
+D:\Laba2Text\Laba2Text\main.c(120,15): warning C4047: функция: "char *" отличается по уровням косвенного обращения от "char (*)[256]"
+D:\Laba2Text\Laba2Text\main.c(120,10): warning C4024: fgets: различные типы для формального и фактического параметров 1
+D:\Laba2Text\Laba2Text\main.c(127,33): warning C4047: функция: "char *" отличается по уровням косвенного обращения от "char (*)[256]"
+D:\Laba2Text\Laba2Text\main.c(127,28): warning C4024: fgets: различные типы для формального и фактического параметров 1
+  Laba2Text.vcxproj -> D:\Laba2Text\Debug\Laba2Text.exe
